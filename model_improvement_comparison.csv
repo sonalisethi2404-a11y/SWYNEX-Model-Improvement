@@ -1,0 +1,5 @@
+Metric,Task 2 Random Forest,Task 3 Improved Random Forest
+Accuracy,82.12,81.01
+Precision,81.36,80.7
+Recall,69.57,66.67
+F1 Score,75.0,73.02
